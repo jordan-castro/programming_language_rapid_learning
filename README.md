@@ -23,3 +23,24 @@ The current process for learning a programming language:
 	
 	Now run your program! Fix any bugs that you may have written, and viola you've learned a new programming language.
 
+
+The goal of languages to learn is:
+- Ada
+- Lisp
+- Gleam
+- COBOL
+- C
+- Zig
+- D
+- R
+- ASM
+- Perl
+- OCaml
+- Haskell
+- BrainFuck
+
+And so far I have learned using this process:
+- Ada
+
+## Important
+This process is not fully fleshed out yet. There are still pieces to improve on.
