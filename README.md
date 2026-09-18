@@ -2,7 +2,9 @@
 
 The goal of this repository is to model a way to learn a programming langauge or framework rapidly. 
 
+## Programming Language Rapid Learning (#1)
 The current process for learning a programming language:
+
 1. Map out the basics
 
 	Most programming languages need to have 6 structures of code.
@@ -42,5 +44,28 @@ The goal of languages to learn is:
 And so far I have learned using this process:
 - Ada
 
+## Programming Framework Rapid Learning (#1)
+This is a MUCH simpler process. It works by using Photoreading and the Self DTI method.
+
+1. Obtain a book or documentation on the framework you wish to learn.
+	If neither can be obtained, the source code works fine here too.
+2. Implement the Photoreading mind system protocol.
+	The full process except for activation.
+3. Without activating, imagine programming on the computer using the framework.
+	Dont worry about being "correct". The goal here is to elicit the learnings from step 2 directly from the unconcious.
+	The Active Imagination is great here.
+4. (OPTIONAL) Activate the learning material.
+	This is completely optional. I usually do not do this. At most I will review a specific function, or class.
+5. Test
+	Go now and use the framework. How often do you check the source? How often do function names, class names, structures seem to just come to mind?
+
+The goal of frameworks to learn is:
+- ObjectiveC (for pixelscript)
+- OpenGL
+- Vulkan
+
+And so far I have learned using this process:
+- ObjectiveC
+
 ## Important
-This process is not fully fleshed out yet. There are still pieces to improve on.
+These processes are not completed. They are just what I use to learn quickly in the context of programming. Ideally once I can get languages to 1 hour and frameworks to 20 minutes I will be confident in solidifying and releasing them.
